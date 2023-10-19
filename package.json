@@ -1,0 +1,11 @@
+{
+  "private": true,
+  "name": "arctic-watch",
+  "workspaces": [
+    "apps/*"
+  ],
+  "scripts": {
+    "dev": "cd apps/payload && yarn start"
+  },
+  "packageManager": "yarn@3.4.1"
+}
