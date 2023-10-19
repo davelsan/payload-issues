@@ -7,14 +7,14 @@ Reproduction repository for payload issue [#3576: Missing webpack cache behaviou
 
 ### Steps to reproduce
 
-Run it once and wait for the `webpack compiled successfully` message.
+Start the webpack dev server for the first time and wait for the `webpack compiled successfully` message.
 
 ```
 yarn install
 yarn dev
 ```
 
-Verify that the `node_modules` folder contains a `.cache/webpack/default-development` folder with files like `0.pack` and `index.pack`. Then run it again.
+Verify that the `node_modules` folder contains a `.cache/webpack/default-development` folder with files like `0.pack` and `index.pack`. Then start the dev server again.
 
 ```
 yarn dev
