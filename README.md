@@ -1,6 +1,6 @@
 # Description
 
-Reproduction repository for payload issue # "Missing webpack cache behaviour in monorepos".
+Reproduction repository for payload issue [#3576: Missing webpack cache behaviour in monorepos](https://github.com/payloadcms/payload/issues/3756).
 
 - Repository created with `yarn create payload-app` and then adapted to a monorepo structure.
 - This repository assumes that you have setup [yarn berry](https://yarnpkg.com/getting-started/install) locally, and have provided an populated `.env` file.
