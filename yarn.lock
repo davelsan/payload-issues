@@ -3198,12 +3198,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"arctic-watch@workspace:.":
-  version: 0.0.0-use.local
-  resolution: "arctic-watch@workspace:."
-  languageName: unknown
-  linkType: soft
-
 "are-we-there-yet@npm:^3.0.0":
   version: 3.0.1
   resolution: "are-we-there-yet@npm:3.0.1"
@@ -7477,6 +7471,26 @@ __metadata:
   languageName: node
   linkType: hard
 
+"no-collections-intellisense@workspace:repros/no-collections-intellisense":
+  version: 0.0.0-use.local
+  resolution: "no-collections-intellisense@workspace:repros/no-collections-intellisense"
+  dependencies:
+    "@payloadcms/bundler-webpack": ^1.0.0
+    "@payloadcms/db-mongodb": ^1.0.0
+    "@payloadcms/plugin-cloud": ^2.0.0
+    "@payloadcms/richtext-slate": ^1.0.0
+    "@types/express": ^4.17.9
+    copyfiles: ^2.4.1
+    cross-env: ^7.0.3
+    dotenv: ^8.2.0
+    express: ^4.17.1
+    nodemon: ^2.0.6
+    payload: ^2.0.0
+    ts-node: ^9.1.1
+    typescript: ^4.8.4
+  languageName: unknown
+  linkType: soft
+
 "node-abi@npm:^3.3.0":
   version: 3.51.0
   resolution: "node-abi@npm:3.51.0"
@@ -7976,6 +7990,12 @@ __metadata:
   checksum: e96ee581b68085e6f2ba5adbcb4d4a41fe88e5b514061e76df2fe1905f0f65f4fe5a843b538e9551122c6b9184ff4be266c2ee0ea4614702f9a3d04466d9f462
   languageName: node
   linkType: hard
+
+"payload-issue-repros@workspace:.":
+  version: 0.0.0-use.local
+  resolution: "payload-issue-repros@workspace:."
+  languageName: unknown
+  linkType: soft
 
 "payload@npm:^2.0.0":
   version: 2.0.10
@@ -11077,9 +11097,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"webpack-cache-location@workspace:apps/payload":
+"webpack-cache-location@workspace:repros/webpack-cache-bug":
   version: 0.0.0-use.local
-  resolution: "webpack-cache-location@workspace:apps/payload"
+  resolution: "webpack-cache-location@workspace:repros/webpack-cache-bug"
   dependencies:
     "@payloadcms/bundler-webpack": ^1.0.0
     "@payloadcms/db-mongodb": ^1.0.0
