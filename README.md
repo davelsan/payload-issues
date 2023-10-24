@@ -9,5 +9,5 @@ Collection of repros for payload issues.
 ## Issues
 
 To be added...
-- [x] payload-webpack-cache-bug: [#3576: Missing webpack cache behaviour in monorepos](https://github.com/payloadcms/payload/issues/3756)
-- [ ] no-collections-intellisense: [TBA]()
+- [x] payload-webpack-cache-bug: [#3576](https://github.com/payloadcms/payload/issues/3756)
+- [ ] no-collections-intellisense: [#3840](https://github.com/payloadcms/payload/issues/3840)
