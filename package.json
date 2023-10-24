@@ -2,7 +2,7 @@
   "private": true,
   "name": "payload-issue-repros",
   "workspaces": [
-    "apps/payload-webpack-cache-bug"
+    "repros/webpack-cache-bug"
   ],
   "scripts": {
     "dev": "cd apps/payload && yarn start"
