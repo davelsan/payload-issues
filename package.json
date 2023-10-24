@@ -1,8 +1,8 @@
 {
   "private": true,
-  "name": "arctic-watch",
+  "name": "payload-issue-repros",
   "workspaces": [
-    "apps/*"
+    "apps/payload-webpack-cache-bug"
   ],
   "scripts": {
     "dev": "cd apps/payload && yarn start"
