@@ -6,8 +6,7 @@ Collection of repros for payload issues.
 - This repository assumes that you have setup [yarn berry](https://yarnpkg.com/getting-started/install) locally.
 - You'll need to create an `.env` file for each repro, as needed.
 
-## Issues
+## Issues (most recent first)
 
-To be added...
+- [x] no-automatic-type-inference-in-collections: [#3840](https://github.com/payloadcms/payload/issues/3840)
 - [x] payload-webpack-cache-bug: [#3576](https://github.com/payloadcms/payload/issues/3756)
-- [ ] no-collections-intellisense: [#3840](https://github.com/payloadcms/payload/issues/3840)
