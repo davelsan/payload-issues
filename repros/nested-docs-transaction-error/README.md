@@ -1,4 +1,4 @@
-Reproduction for payload issue [#TBD]().
+Reproduction for payload issue [4072](https://github.com/payloadcms/payload/issues/4072).
 
 Note: I cannot reproduce this error in a self-hosted MongoDB environment, only in MongoDB Atlas.
 
