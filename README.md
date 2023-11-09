@@ -9,4 +9,5 @@ Collection of repros for payload issues.
 ## Issues (most recent first)
 
 - [x] no-automatic-type-inference-in-collections: [#3840](https://github.com/payloadcms/payload/issues/3840)
-- [x] payload-webpack-cache-bug: [#3576](https://github.com/payloadcms/payload/issues/3756)
+- [x] webpack-cache-bug: [#3576](https://github.com/payloadcms/payload/issues/3756)
+- [ ] nested-docs-transaction-error: [TBD]()
