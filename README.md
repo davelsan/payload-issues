@@ -10,4 +10,4 @@ Collection of repros for payload issues.
 
 - [x] no-automatic-type-inference-in-collections: [#3840](https://github.com/payloadcms/payload/issues/3840)
 - [x] webpack-cache-bug: [#3576](https://github.com/payloadcms/payload/issues/3756)
-- [ ] nested-docs-transaction-error: [4072](https://github.com/payloadcms/payload/issues/4072)
+- [x] nested-docs-transaction-error: [4072](https://github.com/payloadcms/payload/issues/4072)
